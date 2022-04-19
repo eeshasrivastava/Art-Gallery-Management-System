@@ -1,1 +1,4 @@
-# Art-Gallery-Management-System
+# Art Gallery Management System
+Online Art Gallery Management System is a website for artists as well as users both. The aim of developing an Online Art Gallery Management project is to replace the traditional way of exhibiting the paintings in the store.
+
+Objective: The main objective of the Art Gallery Management System is to manage the details of artists, their artworks, events which the company is going to organize and the users registered on the website. It manages all the information about the art work and the content displayed on the website. The project is mainly built at the administrative end and thus only the administrator is guaranteed the access. But, the users who wish to buy the paintings, fill up their details like name, contact and address so that the painting will be delivered to them.
